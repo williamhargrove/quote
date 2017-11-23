@@ -1,7 +1,5 @@
 #!/usr/bin/ruby
 
-# https://query1.finance.yahoo.com/v7/finance/quote?symbols=
-
 require 'rest-client'
 require 'json'
 
